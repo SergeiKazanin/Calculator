@@ -1,1 +1,1 @@
-First calculator in Javascript
+The first Javascript calculator
